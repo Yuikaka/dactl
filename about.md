@@ -1,10 +1,23 @@
 ---
-layout: post
-title:  "Me"
+layout: page
+title: About
 permalink: /about/
 published: true
-  
-<center>Me</center>  
-![](assets/img/IMG_9436.png)
+---
 
-<center>中二。发呆。死宅。动漫。gakki粉。</center>
+<div class="page" markdown="1">
+
+{% capture page_subtitle %}
+<img
+    class="me"
+    alt="{{ kaka }}"
+    src="{{ site.author.photo |assets/img/IMG_9436.png }}"
+    srcset="{{ site.author.photo2x | assets/img/IMG_9436.png }} 2x"
+/>
+{% endcapture %}
+
+{% include page/title.html title=page.title subtitle=page_subtitle %}
+
+## 中二.肥宅.动漫.gakki粉 
+
+</div>
