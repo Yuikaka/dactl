@@ -10,9 +10,9 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-    alt="{{ kaka }}"
-    src="{{assets/img/IMG_9436.png }}"
-    srcset="{{assets/img/IMG_9436.png }} 2x"
+    alt="{{ author.name }}"
+    src="{{ site.author.photo | relative_url }}"
+    srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 {% endcapture %}
 
