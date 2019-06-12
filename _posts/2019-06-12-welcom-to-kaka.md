@@ -4,7 +4,7 @@ title:  "Hello  kaka!"
 tags:
   - 
   - 
-hero: "assets/img/638d24bbly1g1hrqno3h4j21ni13wx6r.jpg"
+hero: "assets/img/006wPmYBgy1fmv55pu3u8j31400mi1ai.jpg"
 published: true
 
 ---
