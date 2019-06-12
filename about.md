@@ -11,7 +11,7 @@ published: true
 <img
     class="me"
     alt="{{ author.name }}"
-    src="{{ site.author.photo | relative_url }}"
+    src="{{ site.author.photo | assets/img/IMG_9436.jpg }}"
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
 {% endcapture %}
@@ -20,6 +20,6 @@ published: true
 
 ## me 
 
-<center>中二。发呆。死宅。动漫。gakki。</center>
+<center>中二。发呆。死宅。动漫。gakki粉。</center>
 
 </div>
