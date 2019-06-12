@@ -4,7 +4,6 @@ title:  "Hello  kaka!"
 tags:
   - 
   - 
-overlay: 
 hero: "assets/img/638d24bbly1g1hrqno3h4j21ni13wx6r.jpg"
 published: true
 
