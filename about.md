@@ -10,15 +10,11 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-    alt="{{ author.name }}"
-    src="{{ site.author.photo | assets/img/IMG_9436.jpg }}"
-    srcset="{{ site.author.photo2x | relative_url }} 2x"
-/>
-{% endcapture %}
+    alt="{{ kaka }}"
+  
+![](assets/img/IMG_9436.jpg)
 
-{% include page/title.html title=page.title subtitle=page_subtitle %}
-
-## me 
+<center>## me </center>
 
 <center>中二。发呆。死宅。动漫。gakki粉。</center>
 
