@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Hello to kaka!"
-tags:''
-hero: 'yuikaka.github.io/assets/img/638d24bbly1g1hrqno3h4j21ni13wx6r.jpg'
+tags:
+  - 
+  - 
+hero: "assets/img/638d24bbly1g1hrqno3h4j21ni13wx6r.jpg"
 overlay: 
 published: true
 
