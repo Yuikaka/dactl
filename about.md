@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: me
+permalink: /me/
 published: true
 ---
 
@@ -12,7 +12,6 @@ published: true
     class="me"
     alt="{{ author.name }}"
     src="{{ assets/img/IMG_9436.png | relative_url }}"
-    srcset="{{ assets/img/IMG_9436.png2x | relative_url }} 2x"
 />
 {% endcapture %}
 
