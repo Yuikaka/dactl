@@ -1,19 +1,13 @@
 ---
 layout: page
-title: me
-permalink: /me/
+title: about
+permalink: /about/
 published: true
 ---
 
-<div class="page" markdown="1">
+<center>## Me</center> 
 
-{% capture page_subtitle %}
-<img
-    class="me"
-    alt="{{ author.name }}"
-    src="{{ assets/img/IMG_9436.png | relative_url }}"
-/>
-{% endcapture %}
+![](assets/img/IMG_9436.png)
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
