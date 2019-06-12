@@ -11,8 +11,8 @@ published: true
 <img
     class="me"
     alt="{{ kaka }}"
-    src="{{ site.author.photo |assets/img/IMG_9436.png }}"
-    srcset="{{ site.author.photo2x | assets/img/IMG_9436.png }} 2x"
+    src="{{assets/img/IMG_9436.png }}"
+    srcset="{{assets/img/IMG_9436.png }} 2x"
 />
 {% endcapture %}
 
