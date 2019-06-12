@@ -18,6 +18,6 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## 中二.肥宅.动漫.gakki粉 
+<center>## 中二.肥宅.动漫.gakki粉</center> 
 
 </div>
