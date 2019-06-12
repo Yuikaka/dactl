@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: post
 title:  "Me"
 permalink: /about/
 published: true
----
   
+<center>Me</center>  
 ![](assets/img/IMG_9436.png)
 
 <center>中二。发呆。死宅。动漫。gakki粉。</center>
-
