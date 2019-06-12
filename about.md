@@ -1,6 +1,6 @@
 ---
 layout: page
-title: me
+title:  "Me"
 permalink: /about/
 published: true
 ---
