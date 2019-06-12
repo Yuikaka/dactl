@@ -2,8 +2,6 @@
 layout: post
 title:  "Welcome to kaka!"
 tags:
-  - kaka
-  - jekyll
 hero: https://source.unsplash.com/collection/430471/
 overlay: orange
 published: true
