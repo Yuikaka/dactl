@@ -12,6 +12,7 @@ published: true
 偶尔很想对着湿漉漉空气说一句，你好呀。
 
 <center>氤氲的空气总是能释放出森林的气息...</center>
+
 ![](assets/img/IMG_9402.jpg)
 
 ![](assets/img/C45C9B9E-2A9D-42D5-BFDD-A9117E790B9B.jpg)
