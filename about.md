@@ -11,4 +11,3 @@ published: true
 
 <center>## 中二.肥宅.动漫.gakki粉</center> 
 
-</div>
